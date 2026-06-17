@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋🏼
 
 I'm Gabrielly Lima, a Software Engineering student focused on Full Stack development.
 Building my technical foundation in Java, Spring Boot, TypeScript and React.
 
 Looking for my first internship to grow as a developer.
 
-### Technologies I'm studying
+### 💻 Technologies I'm studying
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
